@@ -1,0 +1,25 @@
+# Python virtual environments
+venv/
+.env/
+.venv/
+
+# Mac OS files
+.DS_Store
+
+# If using PyCharm or IntelliJ
+.idea/
+
+# If using Visual Studio Code
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Other common directories to ignore
+*.egg-info/
+build/
+dist/
